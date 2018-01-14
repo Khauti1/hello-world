@@ -1,4 +1,4 @@
 # hello-world
-Creating my first GitHub repository!
+Exploring GitHub and it's features.
 
-My name is David Khautisen.  I'm a Senior Applications Developer and this is my first GitHub Repository.
+
